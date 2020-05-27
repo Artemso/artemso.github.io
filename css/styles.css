@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #778c9a;
   text-decoration: underline;
 }
 
@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bdbdbd !important;
+  background-color: #d0d0d0 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
