@@ -4445,8 +4445,8 @@ input[type=button].btn-block {
 .card-img-top,
 .card-img-bottom {
   flex-shrink: 0;
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
 }
 
 .card-img,
