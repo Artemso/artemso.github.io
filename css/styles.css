@@ -346,12 +346,14 @@ output {
 
 .card-github-link {
   margin-left: 1.25rem;
+  font-size: inherit;
   margin-bottom: 0.5rem;
   float: left;
 }
 
 .card-github-lang {
   float: right;
+  font-size: inherit;
   margin-right: 1.25rem;
   margin-bottom: 0.5rem;
 }
