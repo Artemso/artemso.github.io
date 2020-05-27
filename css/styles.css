@@ -347,15 +347,11 @@ output {
 .card-github-link {
   float: left;
   margin-left: 1.25rem;
-  height: 3rem;
-  width: 3rem;
   margin-bottom: 0.5rem;
 }
 
 .card-github-lang {
   float: right;
-  height: 3rem;
-  width: 3rem;
   margin-right: 1.25rem;
   margin-bottom: 0.5rem;
 }
