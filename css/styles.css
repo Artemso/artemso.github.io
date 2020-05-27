@@ -2449,6 +2449,7 @@ textarea.form-control {
 @media (prefers-reduced-motion: reduce) {
   .btn {
     transition: none;
+    padding: 1.25rem;
   }
 }
 .btn:hover {
@@ -2501,7 +2502,6 @@ fieldset:disabled a.btn {
 }
 
 .btn-secondary {
-  padding: 1.25rem;
   color: #fff;
   background-color: #6c757d;
   border-color: #6c757d;
