@@ -353,7 +353,7 @@ output {
 
 .card-github-lang {
   float: right;
-  font-size: inherit;
+  size: 1.5rem;
   margin-right: 1.25rem;
   margin-bottom: 0.5rem;
 }
