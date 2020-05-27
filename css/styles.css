@@ -346,6 +346,7 @@ output {
 
 .card-github-link {
   float: left;
+  size: 100%;
   margin-left: 1.25rem;
   margin-right: 1.25rem;
   margin-bottom: 0.5rem;
@@ -353,6 +354,7 @@ output {
 
 .card-github-lang {
   float: right;
+  size: 100%;
   margin-left: 1.25rem;
   margin-right: 1.25rem;
   margin-bottom: 0.4rem;
