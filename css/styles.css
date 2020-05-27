@@ -344,8 +344,13 @@ output {
   display: inline-block;
 }
 
-.card-icon {
+.card-github-link {
   margin-left: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-github-lang {
+  
   margin-bottom: 0.5rem;
 }
 
