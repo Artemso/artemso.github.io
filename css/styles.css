@@ -362,7 +362,6 @@ output {
 
 summary {
   display: list-item;
-  margin-bottom: 0.5rem;
   cursor: pointer;
 }
 
